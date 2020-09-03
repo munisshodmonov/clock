@@ -1,5 +1,6 @@
 # Day 2
 
-## clock
-<br />
-Made a clock using html,css and vanilla javascript without using any frameworks!
+Today I made a clock using vanilla JavaScript, HTML5, and CSS3!
+
+Learn more everyday!
+
